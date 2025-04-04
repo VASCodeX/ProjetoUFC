@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UltimateFightingChampionship:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UltimateFightingChampionship_jar</output-path>
+    <root id="archive" name="UltimateFightingChampionship.jar">
+      <element id="module-output" name="UltimateFightingChampionship" />
+    </root>
+  </artifact>
+</component>
