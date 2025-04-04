@@ -10,7 +10,7 @@ public class Luta {
     public void marcarLuta(Lutador lutador1, Lutador lutador2) {
         if (lutador1.getCategoria() == lutador2.getCategoria() && lutador1.getNome() != lutador2.getNome()) {
             setDesafiado(lutador1);
-            setDesafiante(lutador2);
+            setDesafiante(lutador2); 
             JOptionPane.showMessageDialog(null, "Luta Aprovada!");
             aprovado = true;
         } else {
